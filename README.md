@@ -1,2 +1,2 @@
-# InformationDocuments
-MyWay public information documents
+# Team. MyWay 공유용 문서
+잡다한 내용들이 들어 있습니다.
